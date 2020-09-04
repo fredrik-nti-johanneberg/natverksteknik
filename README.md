@@ -60,7 +60,7 @@ Klicka på **Ladda ned** för att hämta installationsprogrammet **installbackup
 ## 3. Starta installationen av Google Drive klient
 
 &nbsp;  
-Starta installationen genom att nagivera till mappen **Hämta filer** på din dator och dubbelklicka på  
+Starta installationen genom att navigera till mappen **Hämta filer** på din dator och dubbelklicka på  
 filen **installbackupandsync.exe**,  alternativt starta installationen i webbläsaren genom att klicka  
 på den nedladdade filen.
 &nbsp;  
