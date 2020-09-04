@@ -1,12 +1,14 @@
 # Nätverksteknik
 
+
 ## Vecka 36 - Installera och konfigurera Google Drive Sync
+
 
 ### Registrera telefonnummer i kontowebben
 
-  Innan vi börjar installera Google Drive Sync är det bra att ha registrerat sitt mobilnummer
-  i Academedias kontowebb. Vissa steg i installationsprocessen kan kräva en så kallad tvåfaktors-
-  autentisering (2fa) där en engångskod skickas till din telefon.
+Innan vi börjar installera Google Drive Sync är det bra att ha registrerat sitt mobilnummer
+i Academedias kontowebb. Vissa steg i installationsprocessen kan kräva en så kallad tvåfaktorsautentisering
+(2fa) där en engångskod skickas till din telefon.
 
 
   ![](media/kontowebben_00_settings.png)
@@ -21,6 +23,18 @@ Börja med att öppna en webbläsare och navigera till [https://konto.academedia
 
 Efter inloggning kan du ange ditt mobilnummer. Innan du kan spara dina uppgifter måste du också välja ett par frågor
 för lösenordsåterställning. Undvik lättgissade svar.
+
+---
+
+### Ladda ner Google Drive klienten för Windows
+
+![](media/download_00.png)
+
+Navigera till [https://www.google.com/intl/sv_se/drive/download](https://www.google.com/intl/sv_se/drive/download) och scrolla ner till
+**För privatpersoner**.
+Klicka på **Ladda ned** för att hämta installationsprogrammet.
+
+---
 
 ![](media/gaccount_00_choose_account.png)
 ![](media/gaccount_01_grant_access.png)
