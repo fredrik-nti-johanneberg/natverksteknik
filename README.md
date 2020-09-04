@@ -9,10 +9,10 @@
 Innan vi börjar installera Google Drive Sync är det bra att ha registrerat sitt mobilnummer  
 i Academedias kontowebb. Vissa steg i installationsprocessen kan kräva en så kallad tvåfaktors-  
 autentisering (2fa) där en engångskod skickas till din telefon.  
-  
+&nbsp;  
   
   ![](media/kontowebben_00_settings.png)
-  
+&nbsp;    
   
 Börja med att öppna en webbläsare och navigera till [https://konto.academedia.se](https://konto.academedia.se).  
 Välj alternativet längst ner **Jag vill registrera eller ändra mina uppgifter för lösenordsåterställning**.
