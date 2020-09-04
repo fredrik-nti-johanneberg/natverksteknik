@@ -37,7 +37,6 @@ välja ett par frågor för lösenordsåterställning. Undvik lättgissade svar.
 &nbsp;  
 
 ---
-&nbsp;  
 
 ## 2. Ladda ner Google Drive klient för Windows
 &nbsp;  
@@ -53,7 +52,6 @@ Klicka på **Ladda ned** för att hämta installationsprogrammet **installbackup
 &nbsp;  
 
 ---
-&nbsp;  
 
 ## 3. Starta installationen av Google Drive klient
 
@@ -71,7 +69,6 @@ Klicka på knappen **KOM IGÅNG** för att påbörja konfigurationen av programm
 &nbsp;  
 
 ---
-&nbsp;  
 
 ## 4. Logga in på ditt Google-konto och ge åtkomst till Drive
 
@@ -109,7 +106,6 @@ av programmet.
 &nbsp;  
 
 ---
-&nbsp;  
 
 ## 5. Välja mappar för synkronisering mot Drive
 
@@ -140,7 +136,6 @@ vara om du inte vill aktivera några ytterligare funktioner. Klicka därefter p�
 &nbsp;  
 
 ----
-&nbsp;  
 
 ## 6. Deaktivera eller aktivera synkronisering från Drive
 
@@ -162,7 +157,6 @@ Klicka slutligen på **STARTA** för att avsluta konfigurationen och låta synkr
 &nbsp;  
 
 ---
-&nbsp;  
 
 ## 7. Inställningar efter avslutad installation
 
@@ -197,7 +191,6 @@ för vilka mappar som ska synkroniseras osv.
 &nbsp;  
 
 ---
-&nbsp;  
 
 ## 8. Dela mapp på Google Drive med andra användare
 
@@ -229,7 +222,7 @@ Skriv in mitt användarnamn i dialogen och välj i listan.
 &nbsp;  
 &nbsp;  
 Klicka slutligen på **Skicka** för att bekräfta delningen av mappen. Nu kan jag ta del av ditt arbete  
-i Programmering 1 :-D
+i Programmering 1.
 &nbsp;  
 &nbsp;  
 
