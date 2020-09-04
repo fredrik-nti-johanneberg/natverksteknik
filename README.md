@@ -32,6 +32,7 @@ för lösenordsåterställning. Undvik lättgissade svar.
 
 Navigera till [https://www.google.com/intl/sv_se/drive/download](https://www.google.com/intl/sv_se/drive/download) och scrolla ner till
 **För privatpersoner**.
+
 Klicka på **Ladda ned** för att hämta installationsprogrammet.
 
 ---
