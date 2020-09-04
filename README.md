@@ -23,15 +23,13 @@ autentisering (2fa) där en engångskod skickas till din telefon.
   ![](media/kontowebben_00_settings.png)
 
 &nbsp;  
-&nbsp;  
 Börja med att öppna en webbläsare och navigera till [https://konto.academedia.se](https://konto.academedia.se).  
 Välj alternativet längst ner **Jag vill registrera eller ändra mina uppgifter för lösenordsåterställning**.
 &nbsp;  
 &nbsp;  
 
   ![](media/kontowebben_01_register.png)
-  
-&nbsp;  
+
 &nbsp;  
 Efter inloggning kan du ange ditt mobilnummer. Innan du kan spara dina uppgifter måste du också  
 välja ett par frågor för lösenordsåterställning. Undvik lättgissade svar.
@@ -80,7 +78,6 @@ Klicka på knappen **KOM IGÅNG** för att påbörja konfigurationen av programm
 ![](media/gupdate_04_signon.png)
 
 &nbsp;  
-&nbsp;  
 Du ombeds nu logga in på ditt Google-konto. I det här steget kan det vara betydligt enklare att växla till  
 en webbläsare och fortsätta konfigurationen. Klicka på **Logga in med webbläsaren istället** som du hittar  
 längst ner i fönstret.
@@ -90,7 +87,6 @@ längst ner i fönstret.
 ![](media/gaccount_00_choose_account.png)
 
 &nbsp;  
-&nbsp;  
 Om du valt att växla till webbläsaren blir du nu ombedd att välja ett Google-konto för att fortsätta.  
 Logga in på kontot om du inte redan är autentiserad.
 &nbsp;  
@@ -98,7 +94,6 @@ Logga in på kontot om du inte redan är autentiserad.
 
 ![](media/gaccount_01_grant_access.png)
 
-&nbsp;  
 &nbsp;  
 I följande steg godkänner du att klientprogrammet för Google Drive (programmet på din dator) får göra ändringar  
 i filerna på din molnlagringsenhet Klicka på **Tillåt**.
@@ -108,8 +103,8 @@ i filerna på din molnlagringsenhet Klicka på **Tillåt**.
 ![](media/gaccount_02_success.png)
 
 &nbsp;  
-&nbsp;  
-När du gett åtkomst till applikationen kan du växla tillbaka från webbläsaren till fönstret konfigurationen av programmet.
+När du gett åtkomst till applikationen kan du växla tillbaka från webbläsaren till fönstret för konfigurationen  
+av programmet.
 &nbsp;  
 &nbsp;  
 
@@ -125,12 +120,14 @@ När du gett åtkomst till applikationen kan du växla tillbaka från webbläsar
 &nbsp;  
 Nu ska du mötas av skärmen **Välj mappar på datorn som ska säkerhetskopieras ...** Klicka **Ok**.
 &nbsp;  
+&nbsp;  
 
 ![](media/gupdate_06_select_folder.png)
 
 &nbsp;  
 Nu kan du välja mappar som ska synkroniseras. Klicka på **VÄLJ MAPP** och navigera till din hemkatalog.  
 Välj mappen **Ruby** som innehåller dina Ruby-filer.
+&nbsp;  
 &nbsp;  
 
 ![](media/gupdate_07_added_folder.png)
@@ -152,7 +149,6 @@ vara om du inte vill aktivera några ytterligare funktioner. Klicka därefter p�
 ![](media/gupdate_08_drivesync_splash.png)
 
 &nbsp;  
-&nbsp;  
 I nästa steg kan välja om allt innehåll på Drive ska synkroniseras till din dator.
 &nbsp;  
 &nbsp;  
@@ -160,13 +156,13 @@ I nästa steg kan välja om allt innehåll på Drive ska synkroniseras till din 
 ![](media/gupdate_09_drive_sync_disable.png)
 
 &nbsp;  
-&nbsp;  
 Jag har valt att deaktivera detta alternativ eftersom det kan sluka väldigt mycket diskutrymme.  
 Klicka slutligen på **STARTA** för att avsluta konfigurationen och låta synkroniseringen påbörjas.
 &nbsp;  
 &nbsp;  
 
 ---
+&nbsp;  
 
 ## 7. Inställningar efter avslutad installation
 
@@ -174,7 +170,6 @@ Klicka slutligen på **STARTA** för att avsluta konfigurationen och låta synkr
 
 ![](media/gupdate_10_tray.png)
 
-&nbsp;  
 &nbsp;  
 Klicka på det lilla taket (pilen) längst ner till höger i aktivitetsfältet för att visa dolda ikoner.  
 Klicka därefter på ikonen **Drive Direktsynk** för att öppna inställningar för applikationen.  
@@ -184,7 +179,6 @@ Klicka på kugghjulet för att öppna inställningarna.
 
 ![](media/gupdate_11_settings.png)
 
-&nbsp;  
 &nbsp;  
 Här hittar du lite olika typer av inställningar, möjligheter att starta/stoppa synkroniseringen,  
 alternativ för att autostarta applikationen vid systemstart osv.  
@@ -203,12 +197,12 @@ för vilka mappar som ska synkroniseras osv.
 &nbsp;  
 
 ---
+&nbsp;  
 
 ## 8. Dela mapp på Google Drive med andra användare
 
 ![](media/drive_00_my_device.png)
 
-&nbsp;  
 &nbsp;  
 Växla nu till din webbläsare och navigera till [https://drive.google.com](https://drive.google.com)  
 Notera att det i vänsterpanelen lagts till en enhet som heter **Datorer**  
@@ -219,14 +213,12 @@ Allting som synkroniseras från din dator kommer att lagras här.
 ![](media/drive_01_sharing.png)
 
 &nbsp;  
-&nbsp;  
 Navigera till mappen Ruby och markera den. Klicka därefter på ikonen för delning.
 &nbsp;  
 &nbsp;  
 
 ![](media/drive_02_sharinguser.png)
 
-&nbsp;  
 &nbsp;  
 Skriv in mitt användarnamn i dialogen och välj i listan.
 &nbsp;  
